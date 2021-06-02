@@ -8,4 +8,4 @@ for i in range(2,num):
         print('prime')
         break
 else :
-    print(' not prime')    
+    print('not prime')    
